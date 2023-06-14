@@ -12,4 +12,15 @@
 
 
 <style scoped>
+.jumbotron{
+    display: flex;
+    justify-content: center;
+    background-color: lightgrey;
+    height: 200px;
+}
+
+.container{
+    margin: auto;
+}
+
 </style>
